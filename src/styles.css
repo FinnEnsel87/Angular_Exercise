@@ -4,6 +4,7 @@ body{
     background-color: white;
     font-size: 1.3em;
 }
+
 .container{
     display: flex;
     width: 98vw;
@@ -12,6 +13,7 @@ body{
     gap: 1rem;
     padding-top: 3rem;
 }
+
 es3-user-container {
     width: 50%;
     background-color: #DAE8FC;
@@ -21,6 +23,7 @@ es3-user-container {
     gap: 1rem;
     padding: 3rem 1rem;
 }
+
 es3-user-list{
     background-color: #D5E7D4;
     padding: 2rem;
@@ -28,11 +31,13 @@ es3-user-list{
     flex: 1.5;
     flex-grow: inherit;
 }
+
 es3-user-detail{
     border: 1px solid #D7C282;
     background-color: #FFF1CC;
     padding: 2rem;
 }
+
 es3-order-container{
     width: 50%;
     padding: 2rem;
