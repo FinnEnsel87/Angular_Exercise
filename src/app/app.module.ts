@@ -30,4 +30,3 @@ import { OrderDetailComponent } from './order/order-detail/order-detail.componen
   bootstrap: [AppComponent]
 })
 export class AppModule { }
-
